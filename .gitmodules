@@ -1,0 +1,6 @@
+[submodule "CVE-2020-11579"]
+	path = CVE-2020-11579
+	url = https://github.com/ShielderSec/CVE-2020-11579
+[submodule "CVE-2017-18635"]
+	path = CVE-2017-18635
+	url = https://github.com/ShielderSec/CVE-2017-18635
