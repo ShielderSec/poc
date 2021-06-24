@@ -9,6 +9,7 @@ Vendors index:
 ## QNAP
 * [CVE-2020-36197](CVE-2020-36197)
 * [CVE-2020-36198](CVE-2020-36197)
+* [CVE-2021-28807](CVE-2021-28807)
 
 ## Openstack
 * [CVE-2017-18635](https://github.com/ShielderSec/CVE-2017-18635)
