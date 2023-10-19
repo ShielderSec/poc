@@ -17,4 +17,7 @@ Vendors index:
 ## Chadha
 * [CVE-2020-11579](https://github.com/ShielderSec/CVE-2020-11579)
 
+## Orthanc
+* [CVE-2023-33466](CVE-2023-33466)
+
 Note: if you can't find a specific PoC it might be in the upload queue, for the time being you can probably find it in the specific advisory available at https://www.shielder.it/advisories/.
