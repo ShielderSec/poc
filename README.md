@@ -7,6 +7,8 @@ Vendors index:
 * [Chadha](#chadha)
 * [Orthanc](#orthanc)
 * [Asus](#asus)
+* [OpenEXR](#openexr)
+* [MaterialX](#materialx)
 
 ## QNAP
 * [CVE-2020-36197](CVE-2020-36197)
@@ -32,5 +34,10 @@ Vendors index:
 * [CVE-2025-48072](CVE-2025-48072)
 * [CVE-2025-48073](CVE-2026-48073)
 * [CVE-2025-48074](CVE-2026-48074)
+
+## MaterialX
+* [CVE-2025-53009](CVE-2025-53009)
+* [CVE-2025-53010](CVE-2025-53010)
+* [CVE-2025-53011](CVE-2025-53011)
 
 Note: if you can't find a specific PoC it might be in the upload queue, for the time being you can probably find it in the specific advisory available at https://www.shielder.it/advisories/.
